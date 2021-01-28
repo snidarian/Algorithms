@@ -24,7 +24,7 @@ var recursiveFactorial = function(n) {
 	    return 1;
 	}
 	// recursive case:
-    return factorial(n -1) * n;
+    return recursiveFactorial(n -1) * n;
 
 
 }; 
