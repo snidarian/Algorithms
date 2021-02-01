@@ -1,5 +1,5 @@
 # algorithms
-My personal algorithm implementations
+My algorithm implementations
 
 
 
