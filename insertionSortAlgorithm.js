@@ -1,6 +1,7 @@
 // Javascript implementation of a basic integer insertion sort algorithm
 
 
+
 var insert = function(array, rightIndex, value)
 {
     
