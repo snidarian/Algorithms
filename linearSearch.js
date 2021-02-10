@@ -4,9 +4,6 @@
 var array = [15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
 
 
-
-
-
 var performLinearSearch = function(searchSpace, searchValue)
     {
     var searchSize = searchSpace.length - 1
