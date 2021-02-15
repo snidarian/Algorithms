@@ -1,5 +1,10 @@
 // recursive factorial function
 
+
+
+
+
+
 program Fact_rec;
 function factorial(n: integer): integer;
 begin
@@ -16,40 +21,6 @@ begin
   writeln(n,'! = ',f);
   readln;
 end.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
