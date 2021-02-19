@@ -2,8 +2,6 @@
 // Javascript algorith showcases the concept of tail recursion
 // @author Jordan
 
-
-
 // Factorial function using recursion
 var factorial = function(n)
 {
@@ -16,7 +14,6 @@ var factorial = function(n)
         return n * factorial(n - 1);
     }
 }
-
 
 // Factorial function using tail-recursion
 var tailRecursionFunction = function(n, accumalator)
@@ -39,7 +36,3 @@ var integer = 25
 
 console.log(tailRecursionFunction(integer, 1))
 console.log(factorial(integer))
-
-
-
-
