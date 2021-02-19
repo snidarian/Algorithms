@@ -1,6 +1,7 @@
 // Simple linear search implemented in Javascript. O(n) time complexity
 
 
+
 var array = [15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
 
 
@@ -23,10 +24,12 @@ var performLinearSearch = function(searchSpace, searchValue)
     
 
 
+
 var userSearchValue = window.prompt("Provide a number to search for: ")
 
 
 performLinearSearch(array, userSearchValue)
+
 
 
 
