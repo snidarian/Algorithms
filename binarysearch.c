@@ -1,5 +1,6 @@
 // A program function from the K&R
 
+
 #include <stdio.h>
 #include <stdlib.h>
 
