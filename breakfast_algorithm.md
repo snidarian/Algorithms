@@ -18,22 +18,22 @@ Breakfast routine procedure/algorithm
 
 
 ## Aqcuire/take-out Ingredients
-1 - two forks
-2 - one bowl
-5 - three eggs
-7 - take out egg ingredients (garlic, cheese, salt, onion powder)
-12 - take out portion of mixed vegetables
-15 - take out milk
-14 - take out glass
+1. - two forks
+2. - one bowl
+5. - three eggs
+7. - take out egg ingredients (garlic, cheese, salt, onion powder)
+12. - take out portion of mixed vegetables
+15. - take out milk
+14. - take out glass
 
 ## Process
-3 - slice chunk of butter with one of the forks
-4 - place butter in pan and begin heating
-6 -  crack and place eggs in bowl and then whisk with fork
-8 - mix all egg ingredients in preparation for pouring
-9 - When butter in pan turns golden brown, pour in egg mixture.
-10 - flip egg-mixture once it has fully solidified
-11 - remove egg mixture once it is slightly browned on both sides
-13 - cook mixed vegetables in pan merely until unfrozen
-16 - pour milk in glass
-17 - eat using fork (that was used to slice butter)
+3. - slice chunk of butter with one of the forks
+4. - place butter in pan and begin heating
+6. -  crack and place eggs in bowl and then whisk with fork
+8. - mix all egg ingredients in preparation for pouring
+9. - When butter in pan turns golden brown, pour in egg mixture.
+10. - flip egg-mixture once it has fully solidified
+11. - remove egg mixture once it is slightly browned on both sides
+13. - cook mixed vegetables in pan merely until unfrozen
+16. - pour milk in glass
+17. - eat using fork (that was used to slice butter)
