@@ -18,16 +18,3 @@ while True:
         print("Searching...")
         guess += 1
         continue
-
-
-
-
-
-
-
-
-
-
-
-
-
